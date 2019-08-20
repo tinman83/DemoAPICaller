@@ -1,0 +1,13 @@
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\bin\Debug\DemoApiCaller.exe.config
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\bin\Debug\DemoApiCaller.exe
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\bin\Debug\DemoApiCaller.pdb
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\obj\Debug\DemoApiCaller.csprojAssemblyReference.cache
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\obj\Debug\DemoApiCaller.Form1.resources
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\obj\Debug\DemoApiCaller.Properties.Resources.resources
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\obj\Debug\DemoApiCaller.csproj.GenerateResource.cache
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\obj\Debug\DemoApiCaller.csproj.CoreCompileInputs.cache
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\obj\Debug\DemoApiCaller.csproj.CopyComplete
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\obj\Debug\DemoApiCaller.exe
+C:\Users\abtmbfp\source\repos\DemoApiCaller\DemoApiCaller\obj\Debug\DemoApiCaller.pdb
